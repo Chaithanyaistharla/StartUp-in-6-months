@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Blog"
+title: "Startup in 6 months"
 ---
 
 {% include head-custom.html %}
