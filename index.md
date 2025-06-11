@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Startup in 6 months"
+title: ""
 ---
 
 {% include head-custom.html %}
