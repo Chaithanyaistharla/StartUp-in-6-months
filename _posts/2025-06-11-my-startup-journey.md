@@ -26,6 +26,7 @@ I'm starting this blog to:
 I’m currently pursuing my Master’s degree at the University of North Texas, with a strong focus on software development and design. I have hands-on experience as a web developer and am actively working toward becoming a full-stack developer. My core interest lies in UI/UX design, where I enjoy creating intuitive and user-centered digital experiences.
 
 This blend of design thinking and development skill is what drives my vision for building practical, user-friendly software solutions.
+
 ---
 
 ## 📍 My 6-Month Roadmap
