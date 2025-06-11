@@ -3,3 +3,6 @@ description: Documenting my startup journey
 theme: minima
 author: Chaithanya Sujith Sinha
 markdown: kramdown
+include:
+  - _includes/head-custom.html
+  
