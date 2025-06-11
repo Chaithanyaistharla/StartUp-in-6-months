@@ -1,4 +1,5 @@
 ---
+{% include head-custom.html %}
 layout: home
 title: "Welcome to My Blog"
 ---
